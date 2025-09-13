@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I’m Ahmed (a.k.a. Yemi-spice)  
 
-<!--
-**Yemi-spice/Yemi-spice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Cybersecurity Analyst & Red Team Intern**  
+🔐 Currently completing the **12-Week Ultimate Pentester Internship**  
+📚 Exploring **Active Directory Security, Web Pentesting, and Malware Analysis**  
+🎯 Goal: Become a skilled **Offensive Security Professional (OSCP-level)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Pentesting:** Nmap, Burp Suite, Metasploit, SQLmap, Hydra  
+- **Blue Teaming:** Wireshark, Suricata, Zeek, SIEM basics  
+- **Scripting:** Python 🐍 | SQL | Bash  
+- **Platforms:** Kali Linux, Windows Server, Active Directory, Cloud (AWS)  
+
+---
+
+## 📂 Featured Projects
+- 🔴 [Red Team Internship Repo](https://github.com/Yemi-spice/redteam-internship) – Daily labs, reports, and tools  
+- 🟢 [Google Cybersecurity Certificate](https://github.com/Yemi-spice/google-cybersecurity) – Course notes & portfolio projects  
+- 🖥️ [Active Directory Project](https://github.com/Yemi-spice/active-directory-lab) – End-to-end enterprise AD setup  
+
+---
+
+## 📫 Connect with Me
+- 🌐 [LinkedIn](www.linkedin.com/in/atobaru-ahmed-99a997315
+
+)  
+- ✍️ [Medium Blog](https://medium.com/@your-link)  
+- 🐦 [Twitter (X)](https://twitter.com/your-link)  
+
+---
+⭐️ *Fun fact: I document everything I learn — my repos are living lab notebooks.*
