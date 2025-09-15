@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ahmed (a.k.a. Yemi-spice)  
+# 👋 Hi, I’m Adeyemi  
 
 💡 **Cybersecurity Analyst & Red Team Intern**  
 🔐 Currently completing the **12-Week Ultimate Pentester Internship**  
